@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         } else {
             Log.d(this.getClass().getSimpleName(), "  OpenCVLoader.initDebug(), working.");
         }
+
     }
 }
